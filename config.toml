@@ -1,4 +1,4 @@
-baseurl = "http://alexcontreras.me/"
+baseurl = "https://alexcontreras.me/"
 title = "Alex Contreras Portfolio"
 theme = "creative-portfolio"
 languageCode = "en-us"
