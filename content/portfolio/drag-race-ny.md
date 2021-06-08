@@ -2,12 +2,18 @@
 draft = false
 image = "/img/portfolio/drag-race-ny.png"
 showonlyimage = true
-weight = 9
+weight = 4
 title = "Drag Race Infographic"
 +++
 
 {{< drag-race-ny >}}
 
-<!-- maybe add tools here too>
+---
 
-<!-- add git repos eventually>
+### Tools
+
+- Python
+- Pandas
+- GIMP
+
+[Github repo](https://github.com/alex74271/dragrace-ny)
